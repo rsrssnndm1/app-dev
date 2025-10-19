@@ -36,7 +36,7 @@ The ***How to Train Your Dragon*** series is one of my all-time favorite stories
 
 ### 💡 Fun Facts
 
-That is so funny! :joy:
+:joy:
 Hiccup’s inventions often go wrong — yet somehow save the day.
 
 ### 🔗 Learn More
