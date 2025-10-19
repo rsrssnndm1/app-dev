@@ -6,6 +6,7 @@ My first repository
 ## A Legendary Series by Cressida Cowell
 
 > “You don't have to be the biggest hero to make the biggest difference.”
+
 The ***How to Train Your Dragon*** series is one of my all-time favorite stories. It’s a mix of **adventure**, *friendship*, and the struggle of a young Viking named Hiccup Horrendous Haddock III who proves that brains and heart can outshine brute strength.
 
 ### 📚 Basic Information
