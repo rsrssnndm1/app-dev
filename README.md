@@ -42,3 +42,12 @@ Hiccup’s inventions often go wrong — yet somehow save the day.
 ### 🔗 Learn More
 
 Read more about the books [here](https://www.cressidacowell.co.uk/landing-page/cressida-cowell/cressida-cowell-how-to-train-your-dragon/)
+
+### 📖 Footnote
+
+The series also inspired three highly successful animated movies by DreamWorks.[^1]
+
+[^1]: These films expand the world of the books with incredible visuals and emotional storytelling.
+
+
+
